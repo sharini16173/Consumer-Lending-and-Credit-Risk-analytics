@@ -2,7 +2,7 @@ SELECT * FROM bank_loan_db.bank_loan_data;
 USE bank_loan_db
 DESCRIBE bank_loan_data
 
-ALTER TABLE bank_loan_data                                                                 --data--clean--
+ALTER TABLE bank_loan_data                                                                 
 CHANGE COLUMN ï»¿id id INT;
 
 UPDATE bank_loan_data
@@ -26,7 +26,7 @@ MODIFY COLUMN next_payment_date DATE;
  
 UPDATE bank_loan_data
 SET emp_title = 'Unknown'
-WHERE TRIM(emp_title) = '';                                                                   --- cleaned---
+WHERE TRIM(emp_title) = '';                                                                   
 
 SELECT COUNT(id) as Total_loan_application from bank_loan_data;
 
