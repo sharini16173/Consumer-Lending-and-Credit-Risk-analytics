@@ -95,6 +95,13 @@ SQL data cleaning · Aggregations and GROUP BY · CASE expressions · Date funct
 
 ## 📬 Contact
 
-[Sharini G] 
-· LinkedIn:[www.linkedin.com/in/sharini-g-571546382] · Gmail:[(g.sharini1601@gmail.com)].Github:[(https://github.com/sharini16173)]
+## 👤 Author
+
+**Sharini G**
+
+- 💼 LinkedIn: [linkedin.com/in/sharini-g-571546382](https://www.linkedin.com/in/sharini-g-571546382)
+- 📧 Email: [g.sharini1601@gmail.com](mailto:g.sharini1601@gmail.com)
+- 🐙 GitHub: [github.com/sharini16173](https://github.com/sharini16173)
+
+⭐ If you found this project useful, consider giving it a star!
 
